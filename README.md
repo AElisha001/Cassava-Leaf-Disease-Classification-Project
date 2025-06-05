@@ -29,8 +29,8 @@ The repository includes the following key files:
 
 ---
 
-## 📊 Model Performance
-The model's performance metrics—including accuracy, precision, recall, and F1-score—are evaluated on a validation set. These metrics provide insights into the model's ability to generalize to unseen data.
+## 📊 Evaluation
+The model's performance metrics—including accuracy, precision, recall, and F1-score, are evaluated on a validation set. These metrics provide insights into the model's ability to generalize to unseen data.
 
 ## 🧠 Key Features
 - Transfer Learning: Leverages the ResNet50 model pre-trained on ImageNet, allowing for efficient training on the cassava dataset.
